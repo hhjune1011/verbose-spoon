@@ -1,4 +1,5 @@
-이미지 크롤링을 하려 하는 데 자꾸만 이런 오류가 뜹니다. 해결해 주실 수 있으신분 계신가요?
+
+I keep getting this error when trying to crawl images. Is there anyone who can solve it?
 DevTools listening on ws://127.0.0.1:14069/devtools/browser/ebcf0d17-721d-4a68-b1a2-ac69ba4cab14
 이미지 탭을 찾을 수 없습니다: Message: 
 Stacktrace:
